@@ -17,4 +17,5 @@ $ yarn start
 $ yarn generate
 ```
 
-Tampilan halaman home dengan menggunakan tailwindcss dan state management dengan vuex. 
+Tampilan halaman home dengan menggunakan tailwindcss dan state management dengan vuex.
+Ada perubahan di tampilan menu dan footer.
